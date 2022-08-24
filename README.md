@@ -3,4 +3,6 @@
 
 * It calculates and plots risk metrics, Sharpe ratios, and beta values for different portfolios, and I've also included a custom selection of three stocks to compare.
 
-* The data was gathered from google finance and imported using .csv files. 
+* The data was gathered from google finance and imported using .csv files.
+
+* While this was a very simple assignment, it would be simple to turn this into a dashboard for comparing different portfolios strengths, weaknesses, risk tolerance, etc. 
